@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gcbirat12
-- 🌱 I’m currently learning basics of AI
+- 🌱 I’m currently learning the basics of AI
 - 💞️ I’m looking to collaborate on AI Projects
-- 📫 Reach outo to me on Linkedin: Birat GC or Email: gcbirat12@gmail.com
+- 📫 Reach out to me on Linkedin: Birat GC or Email: gcbirat12@gmail.com
 
 <!---
 gcbirat12/gcbirat12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
