@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gcbirat12
-- 🌱 I’m currently learning the basics of AI
-- 💞️ I’m looking to collaborate on AI Projects
+- 🌱 I’m currently learning the AI
+- 💞️ I’m looking to collaborate on AI Projects and Research.
 - 📫 Reach out to me on Linkedin: Birat GC or Email: gcbirat12@gmail.com
 
 <!---
